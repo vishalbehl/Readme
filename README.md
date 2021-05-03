@@ -4,7 +4,7 @@
 - 📫 How to reach me
 - Linkedin:  https://www.linkedin.com/in/vishal-behl/
 - Instagram: Follow me on Instagram! https://www.instagram.com/vishal_behl_?r=nametag
-- Website: https://vishalbehl.tk
+- Website: https://vishalbehl.github.io/Vishal-Behl/
 
 <!--
 - 💞️ I’m looking to collaborate on -->
