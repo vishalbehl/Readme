@@ -18,7 +18,7 @@ Talk to me about
 -->
 ## Hello World!! ⭐️
 - 💬 Ask me about anything and everything !! 
-- 👨🏻‍💻 View my **Website** here => <a href="https://vishalbehl.github.io/Vishal-Behl/">Portfolio</a>
+- 👨🏻‍💻 View my **Website** here => <a href="https://vishalbehl.github.io/vishalbehl/">Portfolio</a>
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/vishal-behl/">Linkedin</a>
 
 - 📫 **Reach** me here => vishalbehlv@gmail.com 
